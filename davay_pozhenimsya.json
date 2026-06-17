@@ -1,0 +1,37 @@
+{
+  "title": "Давай поженимся!",
+  "description": "Список выпусков шоу Давай поженимся! (Первый канал). Ссылки - прямые m3u8 с серверов 1internet.tv.",
+  "updated": "2026-06-17",
+  "episodes": [
+    {
+      "id": "korennoy-moskvich-11-06-2026",
+      "title": "Коренной москвич с завышенными требованиями",
+      "date": "2026-06-11",
+      "url": "https://v5-dtln.1internet.tv/video/multibitrate/video/2026/06/10/2e4195da-122a-45f4-bae0-95dfe4dae494_HD-news-2026_06_11-14_10_02_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+    },
+    {
+      "id": "novyy-vypusk-16-06-2026",
+      "title": "Выпуск от 16.06.2026",
+      "date": "2026-06-16",
+      "url": "https://v7-dtln.1internet.tv/video/multibitrate/video/2026/06/16/089112dd-75a8-4124-9e4e-f67c8fe70388_HD-news-2026_06_16-14_21_15_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+    },
+    {
+      "id": "berezhlivyy-tatarin-10-06-2026",
+      "title": "Бережливый татарин",
+      "date": "2026-06-10",
+      "url": "https://v5-dtln.1internet.tv/video/multibitrate/video/2026/06/09/c3302540-9d70-4a7d-b3a1-65ab0f9fee93_HD-news-2026_06_10-14_55_48_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+    },
+    {
+      "id": "oficiantka-kaliningrad-09-06-2026",
+      "title": "Официантка из Калининграда (часть 2)",
+      "date": "2026-06-09",
+      "url": "https://v3-dtln.1internet.tv/video/multibitrate/video/2026/06/08/cf33c311-4b00-4dc8-9344-78e7945df7be_HD-news-2026_06_09-16_00_10_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+    },
+    {
+      "id": "devushka-kotoraya-tancuet-19-09-2024",
+      "title": "Девушка, которая танцует",
+      "date": "2024-09-19",
+      "url": "https://v6-dtln.1internet.tv/video/multibitrate/video/2024/09/18/5788efcf-63c0-49e2-aa4a-2b622cfe969f_HD-news-2024_09_19-17_12_17_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+    }
+  ]
+}
