@@ -2,16 +2,520 @@
   "updated": "2026-06-17",
   "episodes": [
     {
-      "id": "zhdi-menya-ntv-14-06-2024",
-      "title": "Выпуск от 14 июня 2024",
-      "date": "2024-06-14",
-      "url": "https://v5-dtln.1internet.tv/video/multibitrate/video/2026/06/10/2e4195da-122a-45f4-bae0-95dfe4dae494_HD-news-2026_06_11-14_10_02_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+      "id": "zhdi-menya-0",
+      "title": "Выпуск программы от 05.06.2026 (Основной)",
+      "date": "2026-06-05",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-06/01/3131.mp4"
     },
     {
-      "id": "zhdi-menya-ntv-07-06-2024",
-      "title": "Выпуск от 07 июня 2024",
-      "date": "2024-06-07",
-      "url": "https://v7-dtln.1internet.tv/video/multibitrate/video/2026/06/16/089112dd-75a8-4124-9e4e-f67c8fe70388_HD-news-2026_06_16-14_21_15_,350,950,3800,8000,.mp4.urlset/index-f4-v1-a1.m3u8"
+      "id": "zhdi-menya-1",
+      "title": "Выпуск от 29.05.2026 (Основной)",
+      "date": "2026-05-29",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-05/25/3130.mp4"
+    },
+    {
+      "id": "zhdi-menya-2",
+      "title": "Выпуск от 22.05.2026 (Основной)",
+      "date": "2026-05-22",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-05/18/3129.mp4"
+    },
+    {
+      "id": "zhdi-menya-3",
+      "title": "Выпуск от 15.05.2026 (Основной)",
+      "date": "2026-05-15",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-05/07/3128.mp4"
+    },
+    {
+      "id": "zhdi-menya-4",
+      "title": "Выпуск от 08.05.2026 (Основной)",
+      "date": "2026-05-08",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-04/29/3127.mp4"
+    },
+    {
+      "id": "zhdi-menya-5",
+      "title": "Выпуск от 24.04.2026 (Основной)",
+      "date": "2026-04-24",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-04/20/3126.mp4"
+    },
+    {
+      "id": "zhdi-menya-6",
+      "title": "Выпуск от 17.04.2026 (Основной)",
+      "date": "2026-04-17",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-04/08/3125.mp4"
+    },
+    {
+      "id": "zhdi-menya-7",
+      "title": "Выпуск от 10.04.2026 (Основной)",
+      "date": "2026-04-10",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-03/27/3123.mp4"
+    },
+    {
+      "id": "zhdi-menya-8",
+      "title": "Выпуск от 03.04.2026 (Основной)",
+      "date": "2026-04-03",
+      "url": "https://poisk.vid.ru/media/video/airs/2026-03/31/3124.mp4"
+    },
+    {
+      "id": "zhdi-menya-9",
+      "title": "Выпуск программы от 26.12.2025 (Основной)",
+      "date": "2025-12-26",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-12/22/3108.mp4"
+    },
+    {
+      "id": "zhdi-menya-10",
+      "title": "Выпуск от 19.12.2025 (Основной)",
+      "date": "2025-12-19",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-12/16/3107.mp4"
+    },
+    {
+      "id": "zhdi-menya-11",
+      "title": "Выпуск от 12.12.2025 (Основной)",
+      "date": "2025-12-12",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-12/10/3106.mp4"
+    },
+    {
+      "id": "zhdi-menya-12",
+      "title": "Выпуск от 05.12.2025 (Основной)",
+      "date": "2025-12-05",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-12/01/3105.mp4"
+    },
+    {
+      "id": "zhdi-menya-13",
+      "title": "Выпуск от 28.11.2025 (Основной)",
+      "date": "2025-11-28",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-11/24/3104.mp4"
+    },
+    {
+      "id": "zhdi-menya-14",
+      "title": "Выпуск от 21.11.2025 (Основной)",
+      "date": "2025-11-21",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-11/17/3103.mp4"
+    },
+    {
+      "id": "zhdi-menya-15",
+      "title": "Выпуск от 14.11.2025 (Основной)",
+      "date": "2025-11-14",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-11/10/3102.mp4"
+    },
+    {
+      "id": "zhdi-menya-16",
+      "title": "Выпуск от 07.11.2025 (Основной)",
+      "date": "2025-11-07",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-11/05/3101.mp4"
+    },
+    {
+      "id": "zhdi-menya-17",
+      "title": "Выпуск от 31.10.2025 (Основной)",
+      "date": "2025-10-31",
+      "url": "https://poisk.vid.ru/media/video/airs/2025-10/17/3100.mp4"
+    },
+    {
+      "id": "zhdi-menya-18",
+      "title": "Выпуск программы от 28.12.2020 (Украина)",
+      "date": "2020-12-28",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/28/2825.mp4"
+    },
+    {
+      "id": "zhdi-menya-19",
+      "title": "Выпуск от 25.12.2020 (Основной)",
+      "date": "2020-12-25",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/24/2824.mp4"
+    },
+    {
+      "id": "zhdi-menya-20",
+      "title": "Выпуск от 25.12.2020 (Казахстан)",
+      "date": "2020-12-25",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/11/2820.mp4"
+    },
+    {
+      "id": "zhdi-menya-21",
+      "title": "Выпуск от 21.12.2020 (Украина)",
+      "date": "2020-12-21",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/23/2823.mp4"
+    },
+    {
+      "id": "zhdi-menya-22",
+      "title": "Выпуск от 18.12.2020 (Основной)",
+      "date": "2020-12-18",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/16/2822.mp4"
+    },
+    {
+      "id": "zhdi-menya-23",
+      "title": "Выпуск от 14.12.2020 (Украина)",
+      "date": "2020-12-14",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/14/2821.mp4"
+    },
+    {
+      "id": "zhdi-menya-24",
+      "title": "Выпуск от 11.12.2020 (Основной)",
+      "date": "2020-12-11",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/07/2818.mp4"
+    },
+    {
+      "id": "zhdi-menya-25",
+      "title": "Выпуск от 11.12.2020 (Казахстан)",
+      "date": "2020-12-11",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/07/2819.mp4"
+    },
+    {
+      "id": "zhdi-menya-26",
+      "title": "Выпуск от 07.12.2020 (Украина)",
+      "date": "2020-12-07",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/07/2817.mp4"
+    },
+    {
+      "id": "zhdi-menya-27",
+      "title": "Выпуск от 04.12.2020",
+      "date": "2020-12-04",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-12/01/2816.mp4"
+    },
+    {
+      "id": "zhdi-menya-28",
+      "title": "Выпуск от 27.11.2020",
+      "date": "2020-11-27",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-11/25/2813.mp4"
+    },
+    {
+      "id": "zhdi-menya-29",
+      "title": "Выпуск от 20.11.2020",
+      "date": "2020-11-20",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-11/18/2812.mp4"
+    },
+    {
+      "id": "zhdi-menya-30",
+      "title": "Выпуск от 13.11.2020",
+      "date": "2020-11-13",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-11/12/2809.mp4"
+    },
+    {
+      "id": "zhdi-menya-31",
+      "title": "Выпуск от 06.11.2020",
+      "date": "2020-11-06",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-11/02/2803.mp4"
+    },
+    {
+      "id": "zhdi-menya-32",
+      "title": "Выпуск от 30.10.2020",
+      "date": "2020-10-30",
+      "url": "https://poisk.vid.ru/media/video/airs/2020-10/30/2800.mp4"
+    },
+    {
+      "id": "zhdi-menya-33",
+      "title": "Выпуск программы от 28.12.2015 (Украина)",
+      "date": "2015-12-28",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/25/2180.mp4"
+    },
+    {
+      "id": "zhdi-menya-34",
+      "title": "Выпуск от 25.12.2015 (Основной)",
+      "date": "2015-12-25",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/25/2179.mp4"
+    },
+    {
+      "id": "zhdi-menya-35",
+      "title": "Выпуск от 25.12.2015 (Казахстан)",
+      "date": "2015-12-25",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/22/2178.mp4"
+    },
+    {
+      "id": "zhdi-menya-36",
+      "title": "Выпуск от 21.12.2015 (Украина)",
+      "date": "2015-12-21",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/17/2177.mp4"
+    },
+    {
+      "id": "zhdi-menya-37",
+      "title": "Выпуск от 18.12.2015 (Основной)",
+      "date": "2015-12-18",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/17/2176.mp4"
+    },
+    {
+      "id": "zhdi-menya-38",
+      "title": "Выпуск от 18.12.2015 (Беларусь)",
+      "date": "2015-12-18",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/15/2174.mp4"
+    },
+    {
+      "id": "zhdi-menya-39",
+      "title": "Выпуск от 18.12.2015 (Казахстан)",
+      "date": "2015-12-18",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/15/2175.mp4"
+    },
+    {
+      "id": "zhdi-menya-40",
+      "title": "Выпуск от 14.12.2015 (Украина)",
+      "date": "2015-12-14",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/10/2173.mp4"
+    },
+    {
+      "id": "zhdi-menya-41",
+      "title": "Выпуск от 11.12.2015 (Основной)",
+      "date": "2015-12-11",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/10/2172.mp4"
+    },
+    {
+      "id": "zhdi-menya-42",
+      "title": "Выпуск от 04.12.2015",
+      "date": "2015-12-04",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-12/03/2167.mp4"
+    },
+    {
+      "id": "zhdi-menya-43",
+      "title": "Выпуск от 27.11.2015",
+      "date": "2015-11-27",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-11/26/2163.mp4"
+    },
+    {
+      "id": "zhdi-menya-44",
+      "title": "Выпуск от 20.11.2015",
+      "date": "2015-11-20",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-11/19/2161.mp4"
+    },
+    {
+      "id": "zhdi-menya-45",
+      "title": "Выпуск от 13.11.2015",
+      "date": "2015-11-13",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-11/12/2155.mp4"
+    },
+    {
+      "id": "zhdi-menya-46",
+      "title": "Выпуск от 06.11.2015",
+      "date": "2015-11-06",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-11/05/2151.mp4"
+    },
+    {
+      "id": "zhdi-menya-47",
+      "title": "Выпуск от 30.10.2015",
+      "date": "2015-10-30",
+      "url": "https://poisk.vid.ru/media/video/airs/2015-10/29/2149.mp4"
+    },
+    {
+      "id": "zhdi-menya-48",
+      "title": "Выпуск программы от 27.12.2010 (Украина)",
+      "date": "2010-12-27",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/27/1045.mp4"
+    },
+    {
+      "id": "zhdi-menya-49",
+      "title": "Выпуск от 24.12.2010 (Беларусь)",
+      "date": "2010-12-24",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/22/1044.mp4"
+    },
+    {
+      "id": "zhdi-menya-50",
+      "title": "Выпуск от 20.12.2010 (Основной)",
+      "date": "2010-12-20",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/17/1043.mp4"
+    },
+    {
+      "id": "zhdi-menya-51",
+      "title": "Выпуск от 20.12.2010 (Украина)",
+      "date": "2010-12-20",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/16/1042.mp4"
+    },
+    {
+      "id": "zhdi-menya-52",
+      "title": "Выпуск от 20.12.2010 (Молдова)",
+      "date": "2010-12-20",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/15/1041.mp4"
+    },
+    {
+      "id": "zhdi-menya-53",
+      "title": "Выпуск от 17.12.2010 (Беларусь)",
+      "date": "2010-12-17",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/15/1040.mp4"
+    },
+    {
+      "id": "zhdi-menya-54",
+      "title": "Выпуск от 13.12.2010 (Основной)",
+      "date": "2010-12-13",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/13/1039.mp4"
+    },
+    {
+      "id": "zhdi-menya-55",
+      "title": "Выпуск от 13.12.2010 (Украина)",
+      "date": "2010-12-13",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/09/1037.mp4"
+    },
+    {
+      "id": "zhdi-menya-56",
+      "title": "Выпуск от 13.12.2010 (Молдова)",
+      "date": "2010-12-13",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/10/1038.mp4"
+    },
+    {
+      "id": "zhdi-menya-57",
+      "title": "Выпуск от 06.12.2010",
+      "date": "2010-12-06",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-12/06/1035.mp4"
+    },
+    {
+      "id": "zhdi-menya-58",
+      "title": "Выпуск от 29.11.2010",
+      "date": "2010-11-29",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-11/29/1031.mp4"
+    },
+    {
+      "id": "zhdi-menya-59",
+      "title": "Выпуск от 22.11.2010",
+      "date": "2010-11-22",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-11/22/1027.mp4"
+    },
+    {
+      "id": "zhdi-menya-60",
+      "title": "Выпуск от 15.11.2010",
+      "date": "2010-11-15",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-11/13/1023.mp4"
+    },
+    {
+      "id": "zhdi-menya-61",
+      "title": "Выпуск от 08.11.2010",
+      "date": "2010-11-08",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-11/08/1019.mp4"
+    },
+    {
+      "id": "zhdi-menya-62",
+      "title": "Выпуск от 01.11.2010",
+      "date": "2010-11-01",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-10/29/1016.mp4"
+    },
+    {
+      "id": "zhdi-menya-63",
+      "title": "Выпуск от 25.10.2010",
+      "date": "2010-10-25",
+      "url": "https://poisk.vid.ru/media/video/airs/2010-10/25/1013.mp4"
+    },
+    {
+      "id": "zhdi-menya-64",
+      "title": "Выпуск программы от 26.12.2005 (Основной)",
+      "date": "2005-12-26",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/26/350.mp4"
+    },
+    {
+      "id": "zhdi-menya-65",
+      "title": "Выпуск от 26.12.2005 (Украина)",
+      "date": "2005-12-26",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/26/351.mp4"
+    },
+    {
+      "id": "zhdi-menya-66",
+      "title": "Выпуск от 19.12.2005 (Основной)",
+      "date": "2005-12-19",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/19/348.mp4"
+    },
+    {
+      "id": "zhdi-menya-67",
+      "title": "Выпуск от 19.12.2005 (Украина)",
+      "date": "2005-12-19",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/19/349.mp4"
+    },
+    {
+      "id": "zhdi-menya-68",
+      "title": "Выпуск от 12.12.2005 (Основной)",
+      "date": "2005-12-12",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/12/346.mp4"
+    },
+    {
+      "id": "zhdi-menya-69",
+      "title": "Выпуск от 12.12.2005 (Украина)",
+      "date": "2005-12-12",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/12/347.mp4"
+    },
+    {
+      "id": "zhdi-menya-70",
+      "title": "Выпуск от 05.12.2005 (Основной)",
+      "date": "2005-12-05",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/05/344.mp4"
+    },
+    {
+      "id": "zhdi-menya-71",
+      "title": "Выпуск от 05.12.2005 (Украина)",
+      "date": "2005-12-05",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-12/05/345.mp4"
+    },
+    {
+      "id": "zhdi-menya-72",
+      "title": "Выпуск от 28.11.2005 (Основной)",
+      "date": "2005-11-28",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-11/28/342.mp4"
+    },
+    {
+      "id": "zhdi-menya-73",
+      "title": "Выпуск от 21.11.2005",
+      "date": "2005-11-21",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-11/21/340.mp4"
+    },
+    {
+      "id": "zhdi-menya-74",
+      "title": "Выпуск от 14.11.2005",
+      "date": "2005-11-14",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-11/14/338.mp4"
+    },
+    {
+      "id": "zhdi-menya-75",
+      "title": "Выпуск от 07.11.2005",
+      "date": "2005-11-07",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-11/07/336.mp4"
+    },
+    {
+      "id": "zhdi-menya-76",
+      "title": "Выпуск от 31.10.2005",
+      "date": "2005-10-31",
+      "url": "https://poisk.vid.ru/media/video/airs/2005-10/31/334.mp4"
+    },
+    {
+      "id": "zhdi-menya-77",
+      "title": "Выпуск программы от 25.12.2000 (Основной)",
+      "date": "2000-12-25",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-12/25/95.mp4"
+    },
+    {
+      "id": "zhdi-menya-78",
+      "title": "Выпуск от 18.12.2000 (Основной)",
+      "date": "2000-12-18",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-12/18/94.mp4"
+    },
+    {
+      "id": "zhdi-menya-79",
+      "title": "Выпуск от 04.12.2000 (Основной)",
+      "date": "2000-12-04",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-12/04/93.mp4"
+    },
+    {
+      "id": "zhdi-menya-80",
+      "title": "Выпуск от 27.11.2000 (Основной)",
+      "date": "2000-11-27",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-11/27/92.mp4"
+    },
+    {
+      "id": "zhdi-menya-81",
+      "title": "Выпуск от 20.11.2000 (Основной)",
+      "date": "2000-11-20",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-11/20/91.mp4"
+    },
+    {
+      "id": "zhdi-menya-82",
+      "title": "Выпуск от 13.11.2000 (Основной)",
+      "date": "2000-11-13",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-11/13/90.mp4"
+    },
+    {
+      "id": "zhdi-menya-83",
+      "title": "Выпуск от 08.11.2000 (Основной)",
+      "date": "2000-11-08",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-11/08/89.mp4"
+    },
+    {
+      "id": "zhdi-menya-84",
+      "title": "Выпуск от 30.10.2000 (Основной)",
+      "date": "2000-10-30",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-10/30/88.mp4"
+    },
+    {
+      "id": "zhdi-menya-85",
+      "title": "Выпуск от 23.10.2000 (Основной)",
+      "date": "2000-10-23",
+      "url": "https://poisk.vid.ru/media/video/airs/2000-10/23/87.mp4"
     }
   ]
 }
